@@ -1,0 +1,7 @@
+# Do not track secrets file
+secrets.toml
+.streamlit/secrets.toml
+
+# Ignore caches
+__pycache__/
+.pytest_cache/
